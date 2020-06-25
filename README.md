@@ -1,2 +1,2 @@
 # Small Projects
- Following are the few projects done for testing and practice purposes in Processing
+ Following are a few projects done for testing and learning purposes in Processing.
